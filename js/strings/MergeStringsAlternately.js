@@ -71,3 +71,8 @@ var mergeAlternately = function(word1, word2) {
    
    return result;
 };
+
+// Learning takeaway:
+// Don't need to convert string into arrays.
+// Instead of forcing the use of the first string you can just loop through the longest string.
+// Dont overcomplicate / over engineer
